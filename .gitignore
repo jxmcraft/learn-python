@@ -1,4 +1,5 @@
 *.txt
 venv/
-scapy_env/
 *.csv
+*_env/
+*.svg
