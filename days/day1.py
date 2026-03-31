@@ -19,7 +19,7 @@ guest = ["Mike", "Michael", "Manny"]
 
 # Learnt functions
 # len(object) -> tells you the length of the object
-# range(number) -> range is in fact an immutable sequence object instead of a list
+# range(start, number) -> range is in fact an immutable sequence object instead of a list, [0, number)
 
 # Differences
 # del Vs pop -> pop: reusing a single element; del: sdelete multiple elements
